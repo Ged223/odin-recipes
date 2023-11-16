@@ -12,5 +12,8 @@ li {
     margin-bottom:0.8rem;
 }
 
-
-
+img {
+    /*restrict height to 300px*/
+    height: 300px;
+    width: auto;
+}
