@@ -21,3 +21,12 @@ img {
 h1,h2 {
     text-align: center;
 }
+
+button {
+    display: block;
+    margin: 1em auto;
+}
+
+a {
+    text-decoration: none;
+}
