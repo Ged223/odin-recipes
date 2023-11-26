@@ -25,6 +25,8 @@ h1,h2 {
 button {
     display: block;
     margin: 1em auto;
+    padding: 1em 2em;
+    font-size: larger;
 }
 
 a {
