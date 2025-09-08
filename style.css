@@ -27,6 +27,8 @@ button {
     margin: 1em auto;
     padding: 1em 2em;
     font-size: larger;
+    background-color:dimgray;
+    color: white;
 }
 
 a {
